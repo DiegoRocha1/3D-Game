@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RotateCar : MonoBehaviour {
+public class RotateCar : MonoBehaviour
+{
 
+	public float Speed;
+	
 	// Use this for initialization
 	void Start () {
 		
@@ -11,6 +14,6 @@ public class RotateCar : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		transform.Rotate(Vector3.up * Time.deltaTime * Speed);
 	}
 }
