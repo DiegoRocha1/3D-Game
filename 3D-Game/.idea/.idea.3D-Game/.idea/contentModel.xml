@@ -10,6 +10,11 @@
           <e p="RotateCar.cs" t="Include" />
           <e p="Sample.cs" t="Include" />
         </e>
+        <e p="SimpleCloudSystem by RM" t="Include">
+          <e p="Read Me.txt" t="Include" />
+          <e p="SCS Instructions.txt" t="Include" />
+          <e p="SCS.cs" t="Include" />
+        </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Resources" t="Include">
             <e p="LineBreaking Following Characters.txt" t="Include" />
