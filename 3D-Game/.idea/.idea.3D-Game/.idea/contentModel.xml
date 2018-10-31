@@ -41,7 +41,6 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CarController.cs" t="Include" />
-          <e p="Collision.cs" t="Include" />
           <e p="RotateCar.cs" t="Include" />
           <e p="Sample.cs" t="Include" />
         </e>

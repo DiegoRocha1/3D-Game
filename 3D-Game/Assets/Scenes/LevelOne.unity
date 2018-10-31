@@ -113,23 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &273101733 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 166914, guid: 35def8c4f8304524785a18281440c268,
-    type: 2}
-  m_PrefabInternal: {fileID: 1783520910}
---- !u!114 &273101737
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 273101733}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61ef5e53abe334955a050dee72ae594f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  car: {fileID: 1448042398}
 --- !u!1001 &355807409
 Prefab:
   m_ObjectHideFlags: 0
@@ -730,18 +713,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400008, guid: 10d5972a5440d489f8a54e2d7498188b,
     type: 3}
   m_PrefabInternal: {fileID: 355807409}
---- !u!114 &1448042404
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1448042398}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61ef5e53abe334955a050dee72ae594f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  car: {fileID: 0}
 --- !u!1001 &1503266128
 Prefab:
   m_ObjectHideFlags: 0
